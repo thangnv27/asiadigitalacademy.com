@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Asia Digital Academy\n"
+"POT-Creation-Date: 2016-08-11 00:46+0700\n"
+"PO-Revision-Date: 2016-08-11 00:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: PPO VIET NAM <info@ppo.vn>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Không tìm thấy nội dung!"
+msgstr "Content not found!"
+
+#: ajax.php:78
+msgid "Vui lòng chọn 1 Khóa học!"
+msgstr "Please, choose a course!"
+
+#: ajax.php:80 ajax.php:149 ajax.php:205
+msgid "Vui lòng chọn Quý danh!"
+msgstr "Please, choose an username!"
+
+#: ajax.php:82 ajax.php:151 ajax.php:207
+msgid "Vui lòng nhập họ tên!"
+msgstr "Please enter your name!"
+
+#: ajax.php:84 ajax.php:153 ajax.php:209
+msgid "Vui lòng nhập địa chỉ Email!"
+msgstr "Please enter your email address!"
+
+#: ajax.php:86 ajax.php:155 ajax.php:211
+msgid "Vui lòng nhập địa chỉ Email hợp lệ!"
+msgstr "Please enter valid email address!"
+
+#: ajax.php:88 ajax.php:157 ajax.php:213
+msgid "Vui lòng nhập số điện thoại!"
+msgstr "Please enter your phone number!"
+
+#: ajax.php:90 ajax.php:159 ajax.php:215
+msgid "Vui lòng nhập công ty bạn đang làm việc!"
+msgstr "Please, enter your current company!"
+
+#: ajax.php:92 ajax.php:161 ajax.php:217
+msgid "Vui lòng chọn Quốc gia bạn đang sinh sống!"
+msgstr "please, enter your current country!"
+
+#: ajax.php:124
+msgid "Gửi yêu cầu lỗi, vui lòng liên hệ với chúng tôi qua "
+msgstr "Submit error, please contact us via"
+
+#: ajax.php:181
+msgid "Gửi đơn thành công!"
+msgstr "Your message has been sent successfully!"
+
+#: ajax.php:237
+msgid "Gửi thư thành công!"
+msgstr "Your message has been sent successfully!"
+
+#: archive.php:23
+msgid "Chuyên mục"
+msgstr "Archive for category"
+
+#: author.php:23
+msgid "Số bài viết"
+msgstr "Number of posts"
+
+#: author.php:31
+msgid "Ngày tham gia"
+msgstr "Join date"
+
+#: author.php:39
+msgid "Giới thiệu"
+msgstr "Introduction"
+
+#: author.php:44
+msgid "Bài viết của tôi"
+msgstr "My posts"
+
+#: box-hotline.php:2
+msgid "Tư vấn"
+msgstr "Hotline"
+
+#: box-subscribe.php:7 sidebar-home.php:10
+msgid "Đăng ký nhận bài viết của ADA"
+msgstr "Subscribe to receive ADA's new letters"
+
+#: box-subscribe.php:18 sidebar-home.php:21
+msgid "Địa chỉ email không hợp lệ!"
+msgstr "Invalid email address!"
+
+#: box-subscribe.php:20 sidebar-home.php:23
+msgid "Địa chỉ email này đã được đăng ký!"
+msgstr "This email address 've already registed!"
+
+#: box-subscribe.php:22 sidebar-home.php:25
+msgid "ADA Academy - Đăng ký theo dõi tin"
+msgstr "ADA Academy - Registed to get new information!"
+
+#: box-subscribe.php:48 box-subscribe.php:64 sidebar-home.php:51
+#: sidebar-home.php:66
+msgid "Địa chỉ email của bạn"
+msgstr "Your email address"
+
+#: box-subscribe.php:50 sidebar-home.php:53
+msgid "Gửi"
+msgstr "Send"
+
+#: box-subscribe.php:61 sidebar-home.php:63
+msgid "Họ và Tên"
+msgstr "Full name"
+
+#: box-subscribe.php:68 page-templates/page-register-course.php:153
+#: sidebar-home.php:70
+msgid "Đăng ký"
+msgstr "Register"
+
+#: box-subscribe.php:96 sidebar-home.php:98
+msgid "Vui lòng nhập email của bạn!"
+msgstr "Please enter your email address!"
+
+#: courses-other.php:2
+msgid "Các khóa học tại ADA"
+msgstr "ADA's courses"
+
+#: courses-soon.php:2 index.php:44
+msgid "Sắp khai giảng"
+msgstr "Upcoming courses"
+
+#: courses-soon.php:7 index.php:48
+msgid "Xem toàn bộ khóa học +"
+msgstr "View all courses +"
+
+#: filter_course.php:43
+msgid "Kết quả tìm kiếm khóa học"
+msgstr "Search result for courses"
+
+#: filter_course.php:48 includes/class-brochures-list-table.php:42
+#: includes/class-courses-list-table.php:42 single-courses.php:17
+#: template/mail-request-brochure.php:10
+msgid "Khóa học"
+msgstr "Courses"
+
+#: filter_course.php:49
+msgid "Khai giảng"
+msgstr "Start date"
+
+#: filter_course.php:50 functions.php:380 single-courses.php:112
+#: single-events.php:43
+msgid "Địa điểm"
+msgstr "Location"
+
+#: footer.php:4
+msgid "Huấn luyện viên tại ADA"
+msgstr "ADA's Trainers"
+
+#: footer.php:41
+msgid "Khách hàng của chúng tôi"
+msgstr "Our Clients"
+
+#: footer.php:61 footer.php:76 functions.php:325 index.php:38
+msgid "Xem thêm +"
+msgstr "See more +"
+
+#: footer.php:72 page.php:13
+msgid "Về ADA"
+msgstr "About ADA"
+
+#: footer.php:80
+msgid "Liên hệ"
+msgstr "Contact Us"
+
+#: functions.php:108
+msgid "menuapp"
+msgstr ""
+
+#: functions.php:117
+msgid "apphome"
+msgstr ""
+
+#: functions.php:126
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "Sidebar News"
+msgstr ""
+
+#: functions.php:144
+msgid "Sidebar Home"
+msgstr ""
+
+#: functions.php:153
+msgid "Sidebar Courses"
+msgstr ""
+
+#: functions.php:162
+msgid "Sidebar Events"
+msgstr ""
+
+#: functions.php:379 single-courses.php:103 single-events.php:46
+msgid "Thời lượng"
+msgstr "Time"
+
+#: includes/autoresponder.php:35
+msgid "Once Half an Hour"
+msgstr ""
+
+#: includes/autoresponder.php:39
+msgid "Half Part Time"
+msgstr ""
+
+#: includes/brochures-management.php:39 includes/brochures-management.php:40
+msgid "Request Brochure"
+msgstr ""
+
+#: includes/class-brochures-list-table.php:41
+#: includes/class-courses-list-table.php:41
+msgid "ID"
+msgstr ""
+
+#: includes/class-brochures-list-table.php:43
+#: includes/class-courses-detail-list-table.php:47
+#: includes/class-courses-list-table.php:43 template/mail-be-our-partner.php:13
+#: template/mail-be-our-trainer.php:13 template/mail-register-course.php:15
+#: template/mail-register-course.php:40 template/mail-request-brochure.php:14
+msgid "Công ty"
+msgstr "Company"
+
+#: includes/class-brochures-list-table.php:44
+#: includes/class-courses-list-table.php:44
+msgid "Ngày"
+msgstr "Date"
+
+#: includes/class-brochures-list-table.php:45
+#: includes/class-courses-list-table.php:45
+msgid "Tùy chọn"
+msgstr "Options"
+
+#: includes/class-brochures-list-table.php:205
+#: includes/class-courses-list-table.php:209
+#: page-templates/page-register-course.php:45
+msgid "Xóa"
+msgstr "Delete"
+
+#: includes/class-courses-detail-list-table.php:43
+msgid "STT"
+msgstr ""
+
+#: includes/class-courses-detail-list-table.php:44
+#: template/mail-be-our-partner.php:10 template/mail-be-our-trainer.php:10
+#: template/mail-register-course.php:37 template/mail-request-brochure.php:11
+msgid "Họ và tên"
+msgstr "Full name"
+
+#: includes/class-courses-detail-list-table.php:45
+#: template/mail-be-our-partner.php:11 template/mail-be-our-trainer.php:11
+#: template/mail-register-course.php:13 template/mail-register-course.php:22
+#: template/mail-register-course.php:38 template/mail-request-brochure.php:12
+msgid "Địa chỉ Email"
+msgstr "Email address"
+
+#: includes/class-courses-detail-list-table.php:46
+#: template/mail-register-course.php:14 template/mail-register-course.php:21
+#: template/mail-register-course.php:39
+msgid "Điện thoại"
+msgstr "Phone number"
+
+#: includes/class-courses-detail-list-table.php:48
+#: page-templates/page-be-our-partner.php:54
+#: page-templates/page-be-our-trainer.php:54
+#: page-templates/page-brochure.php:71
+#: page-templates/page-register-course.php:74
+#: page-templates/page-register-course.php:109
+#: template/mail-be-our-partner.php:14 template/mail-be-our-trainer.php:14
+#: template/mail-register-course.php:16 template/mail-register-course.php:41
+#: template/mail-request-brochure.php:15
+msgid "Chức vụ"
+msgstr "Position"
+
+#: includes/client.php:11 includes/client.php:12
+msgid "Clients"
+msgstr ""
+
+#: includes/client.php:13 includes/courses.php:15 includes/events.php:15
+#: includes/photo.php:13 includes/slider.php:11 includes/teacher.php:15
+msgid "Add new"
+msgstr ""
+
+#: includes/client.php:14
+msgid "Add new Client"
+msgstr ""
+
+#: includes/client.php:15
+msgid "New Client"
+msgstr ""
+
+#: includes/client.php:16 includes/courses.php:18 includes/events.php:18
+#: includes/photo.php:16 includes/slider.php:14 includes/teacher.php:18
+msgid "Edit"
+msgstr ""
+
+#: includes/client.php:17
+msgid "Edit Client"
+msgstr ""
+
+#: includes/client.php:18 includes/client.php:19
+msgid "View Client"
+msgstr ""
+
+#: includes/client.php:20
+msgid "Search Clients"
+msgstr ""
+
+#: includes/client.php:21
+msgid "No Client found"
+msgstr ""
+
+#: includes/client.php:22
+msgid "No Client found in trash"
+msgstr ""
+
+#: includes/client.php:37
+msgid "Client description here."
+msgstr ""
+
+#: includes/client.php:51 includes/client.php:52
+msgid "Client Categories"
+msgstr ""
+
+#: includes/client.php:53
+msgid "Add New"
+msgstr ""
+
+#: includes/client.php:54
+msgid "Add New Category"
+msgstr ""
+
+#: includes/client.php:55
+msgid "New Category"
+msgstr ""
+
+#: includes/client.php:56
+msgid "Search Categories"
+msgstr ""
+
+#: includes/courses-management.php:31 includes/courses-management.php:32
+msgid "Register Course"
+msgstr ""
+
+#: includes/courses.php:13 includes/courses.php:14
+msgid "Courses"
+msgstr ""
+
+#: includes/courses.php:16
+msgid "Add new Course"
+msgstr ""
+
+#: includes/courses.php:17
+msgid "New Course"
+msgstr ""
+
+#: includes/courses.php:19
+msgid "Edit Course"
+msgstr ""
+
+#: includes/courses.php:20 includes/courses.php:21
+msgid "View Course"
+msgstr ""
+
+#: includes/courses.php:22
+msgid "Search Courses"
+msgstr ""
+
+#: includes/courses.php:23
+msgid "No Course found"
+msgstr ""
+
+#: includes/courses.php:24
+msgid "No Course found in trash"
+msgstr ""
+
+#: includes/courses.php:39
+msgid "Course description here."
+msgstr ""
+
+#: includes/custom.php:612
+msgid "ADA - Đăng ký khóa học: "
+msgstr "ADA - Register Course: "
+
+#: includes/custom.php:632
+msgid "ADA - Yêu cầu Brochure: "
+msgstr "ADA - Request for Brochure: "
+
+#: includes/custom.php:654
+msgid "ADA - Đăng ký trở thành giảng viên"
+msgstr "ADA - Be Our Trainer"
+
+#: includes/custom.php:671
+msgid "ADA - Đăng ký trở thành đối tác"
+msgstr "ADA - Be Our Partner"
+
+#: includes/events.php:13 includes/events.php:14
+msgid "Events"
+msgstr ""
+
+#: includes/events.php:16
+msgid "Add new Event"
+msgstr ""
+
+#: includes/events.php:17
+msgid "New Event"
+msgstr ""
+
+#: includes/events.php:19
+msgid "Edit Event"
+msgstr ""
+
+#: includes/events.php:20 includes/events.php:21
+msgid "View Event"
+msgstr ""
+
+#: includes/events.php:22
+msgid "Search Events"
+msgstr ""
+
+#: includes/events.php:23
+msgid "No Event found"
+msgstr ""
+
+#: includes/events.php:24
+msgid "No Event found in trash"
+msgstr ""
+
+#: includes/events.php:39
+msgid "Event description here."
+msgstr ""
+
+#: includes/photo.php:11 includes/photo.php:12
+msgid "Photos"
+msgstr ""
+
+#: includes/photo.php:14
+msgid "Add new Photo"
+msgstr ""
+
+#: includes/photo.php:15
+msgid "New Photo"
+msgstr ""
+
+#: includes/photo.php:17
+msgid "Edit Photo"
+msgstr ""
+
+#: includes/photo.php:18 includes/photo.php:19
+msgid "View Photo"
+msgstr ""
+
+#: includes/photo.php:20
+msgid "Search Photos"
+msgstr ""
+
+#: includes/photo.php:21
+msgid "No Photo found"
+msgstr ""
+
+#: includes/photo.php:22
+msgid "No Photo found in trash"
+msgstr ""
+
+#: includes/photo.php:37
+msgid "Photo description here."
+msgstr ""
+
+#: includes/slider.php:9 includes/slider.php:10
+msgid "Sliders"
+msgstr ""
+
+#: includes/slider.php:12
+msgid "Add new Slider"
+msgstr ""
+
+#: includes/slider.php:13
+msgid "New Slider"
+msgstr ""
+
+#: includes/slider.php:15
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/slider.php:16 includes/slider.php:17
+msgid "View Slider"
+msgstr ""
+
+#: includes/slider.php:18
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/slider.php:19
+msgid "No Slider found"
+msgstr ""
+
+#: includes/slider.php:20
+msgid "No Slider found in trash"
+msgstr ""
+
+#: includes/slider.php:34
+msgid "Slider description here."
+msgstr ""
+
+#: includes/teacher.php:13 includes/teacher.php:14
+msgid "Trainers"
+msgstr ""
+
+#: includes/teacher.php:16
+msgid "Add new Trainer"
+msgstr ""
+
+#: includes/teacher.php:17
+msgid "New Trainer"
+msgstr ""
+
+#: includes/teacher.php:19
+msgid "Edit Trainer"
+msgstr ""
+
+#: includes/teacher.php:20 includes/teacher.php:21
+msgid "View Trainer"
+msgstr ""
+
+#: includes/teacher.php:22
+msgid "Search Trainers"
+msgstr ""
+
+#: includes/teacher.php:23
+msgid "No Trainer found"
+msgstr ""
+
+#: includes/teacher.php:24
+msgid "No Trainer found in trash"
+msgstr ""
+
+#: includes/teacher.php:39
+msgid "Trainer description here."
+msgstr ""
+
+#: includes/theme_settings.php:197 includes/theme_settings.php:198
+msgid " Settings"
+msgstr ""
+
+#: includes/theme_settings.php:210 includes/theme_settings.php:211
+msgid "Theme Options"
+msgstr ""
+
+#: index.php:81
+msgid "Xem toàn bộ bài viết +"
+msgstr "View all posts +"
+
+#: index.php:88
+msgid "Hình ảnh về ADA?"
+msgstr "Images about ADA"
+
+#: page-templates/page-be-our-partner.php:23
+#: page-templates/page-be-our-trainer.php:23
+#: page-templates/page-brochure.php:23
+#: page-templates/page-register-course.php:23
+msgid "* Là thông tin bắt buộc!"
+msgstr "*Compulsory fields!"
+
+#: page-templates/page-be-our-partner.php:26
+#: page-templates/page-be-our-trainer.php:26
+msgid "Thông tin đăng ký"
+msgstr "Information"
+
+#: page-templates/page-be-our-partner.php:28
+#: page-templates/page-be-our-trainer.php:28
+#: page-templates/page-brochure.php:45
+#: page-templates/page-register-course.php:48
+#: page-templates/page-register-course.php:83
+msgid "Quý danh*"
+msgstr "Salutation*"
+
+#: page-templates/page-be-our-partner.php:38
+#: page-templates/page-be-our-trainer.php:38
+#: page-templates/page-brochure.php:55
+#: page-templates/page-register-course.php:58
+#: page-templates/page-register-course.php:93
+msgid "Họ và tên*"
+msgstr "Full name*"
+
+#: page-templates/page-be-our-partner.php:42
+#: page-templates/page-be-our-trainer.php:42
+#: page-templates/page-brochure.php:59
+#: page-templates/page-register-course.php:62
+#: page-templates/page-register-course.php:97
+msgid "Địa chỉ Email*"
+msgstr "Email address*"
+
+#: page-templates/page-be-our-partner.php:46
+#: page-templates/page-be-our-trainer.php:46
+#: page-templates/page-brochure.php:63
+#: page-templates/page-register-course.php:66
+#: page-templates/page-register-course.php:101
+msgid "Số điện thoại*"
+msgstr "Phone number*"
+
+#: page-templates/page-be-our-partner.php:50
+#: page-templates/page-be-our-trainer.php:50
+#: page-templates/page-brochure.php:67
+#: page-templates/page-register-course.php:70
+#: page-templates/page-register-course.php:105
+msgid "Công ty*"
+msgstr "Company*"
+
+#: page-templates/page-be-our-partner.php:58
+#: page-templates/page-be-our-trainer.php:58
+#: page-templates/page-brochure.php:75 template/mail-be-our-partner.php:15
+#: template/mail-be-our-trainer.php:15 template/mail-register-course.php:20
+#: template/mail-request-brochure.php:16
+msgid "Địa chỉ"
+msgstr "Address"
+
+#: page-templates/page-be-our-partner.php:62
+#: page-templates/page-be-our-trainer.php:62
+#: page-templates/page-brochure.php:79 template/mail-be-our-partner.php:16
+#: template/mail-be-our-trainer.php:16 template/mail-request-brochure.php:17
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: page-templates/page-be-our-partner.php:66
+#: page-templates/page-be-our-trainer.php:66
+#: page-templates/page-brochure.php:83
+msgid "Quốc gia*"
+msgstr "Country*"
+
+#: page-templates/page-be-our-partner.php:68
+#: page-templates/page-be-our-trainer.php:68
+#: page-templates/page-brochure.php:85
+msgid "Chọn quốc gia"
+msgstr "Select country"
+
+#: page-templates/page-be-our-partner.php:77
+#: page-templates/page-be-our-trainer.php:77
+#: page-templates/page-brochure.php:94 template/mail-be-our-partner.php:18
+#: template/mail-be-our-trainer.php:18 template/mail-request-brochure.php:19
+msgid "Lời nhắn"
+msgstr "Comments"
+
+#: page-templates/page-be-our-partner.php:81
+msgid "Gửi thư"
+msgstr "Send"
+
+#: page-templates/page-be-our-trainer.php:81
+msgid "Gửi đơn"
+msgstr "Send"
+
+#: page-templates/page-brochure.php:26
+msgid "Yêu cầu Brochure"
+msgstr "Request for Brochure"
+
+#: page-templates/page-brochure.php:28
+#: page-templates/page-register-course.php:28
+msgid "Chọn khóa học*"
+msgstr "Select a course*"
+
+#: page-templates/page-brochure.php:98
+msgid "Gửi yêu cầu"
+msgstr "Send"
+
+#: page-templates/page-client.php:25
+msgid "Tất cả"
+msgstr "All"
+
+#: page-templates/page-courses.php:26
+msgid "Khóa học đã qua"
+msgstr "Past Courses"
+
+#: page-templates/page-lichhoc.php:26
+msgid "Khóa học sắp khai giảng"
+msgstr "Upcoming Courses"
+
+#: page-templates/page-register-course.php:26 single-courses.php:86
+#: single-events.php:36
+msgid "Thông tin chung"
+msgstr "General information"
+
+#: page-templates/page-register-course.php:46
+msgid "Người tham dự"
+msgstr "Deledate"
+
+#: page-templates/page-register-course.php:78
+msgid "+ Thêm Đại biểu"
+msgstr "+ Add new Delegate"
+
+#: page-templates/page-register-course.php:81
+msgid "Thông tin liên hệ"
+msgstr "Contact information"
+
+#: page-templates/page-register-course.php:113
+msgid "Lĩnh vực/Ngành nghề*"
+msgstr "Nature of Business*"
+
+#: page-templates/page-register-course.php:137
+msgid "Bạn biết tới khóa học này qua nguồn nào?*"
+msgstr "How did you know about this course?*"
+
+#: sidebar-courses.php:6 sidebar-home.php:123 single-events.php:13
+msgid "Sự kiện"
+msgstr "Events"
+
+#: sidebar-lichhoc.php:7 sidebar-lichhoc.php:41
+msgid "Tìm khóa học"
+msgstr "Search courses"
+
+#: sidebar-lichhoc.php:10
+msgid "Từ ngày"
+msgstr "From date"
+
+#: sidebar-lichhoc.php:20
+msgid "Đến ngày"
+msgstr "To date"
+
+#: sidebar-lichhoc.php:30
+msgid "Tất cả các khóa học"
+msgstr "All of courses"
+
+#: sidebar-lichhoc.php:40
+msgid "Xóa lựa chọn"
+msgstr "Remove selection"
+
+#: sidebar-lichhoc.php:94
+msgid "Khóa học nên học"
+msgstr "Recommended Courses"
+
+#: single-courses.php:32
+msgid "Tổng quan"
+msgstr "Overview"
+
+#: single-courses.php:33
+msgid "Nội dung"
+msgstr "Content"
+
+#: single-courses.php:35 single-courses.php:109
+msgid "Học phí"
+msgstr "Fee"
+
+#: single-courses.php:38
+msgid "Testimonials"
+msgstr ""
+
+#: single-courses.php:40 single-courses.php:47 single-courses.php:53
+#: single-courses.php:61 single-courses.php:70 single-courses.php:118
+msgid "Đăng ký học"
+msgstr "Register"
+
+#: single-courses.php:41
+msgid "Brochure"
+msgstr ""
+
+#: single-courses.php:89
+msgid "Ngày khai giảng"
+msgstr "Start date"
+
+#: single-courses.php:96
+msgid "Ngày kết thúc"
+msgstr "End date"
+
+#: single-courses.php:106 single-events.php:40
+msgid "Thời gian"
+msgstr "Time"
+
+#: single-courses.php:115
+msgid "Uu đãi"
+msgstr "Promotion"
+
+#: single-events.php:49
+msgid "Phí tham dự"
+msgstr "Fee"
+
+#: single-trainer.php:14
+msgid "Huấn luyện viên"
+msgstr "Trainer"
+
+#: single.php:74
+msgid "Bình luận"
+msgstr "Comments"
+
+#: template/mail-be-our-partner.php:7
+msgid "XÁC NHẬN THÔNG TIN ĐĂNG KÝ ĐỐI TÁC"
+msgstr "CONFIRM PARTNER'S INFORMATION"
+
+#: template/mail-be-our-partner.php:12 template/mail-be-our-trainer.php:12
+#: template/mail-request-brochure.php:13
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+#: template/mail-be-our-partner.php:17 template/mail-be-our-trainer.php:17
+#: template/mail-request-brochure.php:18
+msgid "Quốc gia"
+msgstr "Country"
+
+#: template/mail-be-our-partner.php:24 template/mail-be-our-trainer.php:24
+#: template/mail-register-course.php:68 template/mail-request-brochure.php:25
+msgid "Người đăng ký"
+msgstr "Customer signature"
+
+#: template/mail-be-our-trainer.php:7
+msgid "XÁC NHẬN THÔNG TIN ĐĂNG KÝ GIẢNG VIÊN"
+msgstr "CONFIRM TRAINER'S INFORMATION"
+
+#: template/mail-register-course.php:12
+msgid "Đại diện"
+msgstr "Full name"
+
+#: template/mail-register-course.php:23
+msgid "Ngày đăng ký"
+msgstr "Date"
+
+#: template/mail-register-course.php:30
+msgid "DANH SÁCH ĐẠI BIỂU ĐĂNG KÝ"
+msgstr "LIST OF DELEGATES"
+
+#: template/mail-request-brochure.php:7
+msgid "XÁC NHẬN THÔNG TIN YÊU CẦU BROCHURE"
+msgstr "CONFIRM REQUEST FOR BROCHURE"
+
+#~ msgid "Đại biểu"
+#~ msgstr "Delegate"
